@@ -93,34 +93,6 @@ if (ch){
     }
 }
 
-//    public void demoaccount()
-//    {
-//        int  demobalance=50000;
-//        System.out.println("Name of account holder :: " + "Demo user");
-//        System.out.println("Account no             :: " + "8529637412");
-//        System.out.println("Account type           :: " + "demo");
-//        System.out.println("Balance                :: " + demobalance);
-//
-//    }
-//    public void deposite()
-//    {
-//        System.out.println("Enter the Amount you want to deposit ::");
-//        int deposit =sc.nextInt();
-//        int amount =(int) ((bank1.getBalance())+deposit);
-//        bank1.setBalance(amount);
-//        System.out.println(" "+ deposit+" is deposited into your Account");
-//        System.out.println("Current Available Balance is Rs = "+ bank1.getBalance());
-//
-//    }
-//
-//    public void checkbalance()
-//    {
-//        System.out.println("Your name is           :: "+bank1.getName());
-//        System.out.println("Account no             :: " + bank1.getAccno());
-//        System.out.println("Account type           :: " + bank1.getAcc_type());
-//        System.out.println("Balance                :: " + bank1.getBalance());
-//        System.out.println("THANKS FOR BALANCE CHECKING ");
-//
-//    }
+
 
 
